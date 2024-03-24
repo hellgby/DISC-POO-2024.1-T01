@@ -1,6 +1,4 @@
-๑ Prof. Roger · Disciplina: Programação Orientada a Objetos (POO)
 
-๑ Ana Lívia Cândido Carneiro · Informática P3
 
 
 1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
